@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curso: Ciência da Computação
-Disciplina: Tópicos essenciais em Programação
+Disciplina: Introdução a Programação
 Nome: Kaike Araujo Moura
 
 Resposta da Lista de Exercício
@@ -9,4 +9,11 @@ Questão 01
 
 Questão 02
 
-Questão 03
+
+Questão 4
+
+Questão 5
+
+Questão 6
+
+Questão 10
